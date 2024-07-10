@@ -1,2 +1,2 @@
 # LandingPage
-Landing page using HTML , CSS , JAVASCRIPT.
+Landing page using HTML , CSS.
